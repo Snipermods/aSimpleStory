@@ -1,1 +1,6 @@
-Heyy this is stinky bob
+<<<<<<< HEAD
+
+=======
+Heyy this is bob
+your smelyy
+>>>>>>> ede777a2e6de50bc17b04444960b08ef206e7afb
